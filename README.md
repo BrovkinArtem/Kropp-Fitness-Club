@@ -1,6 +1,6 @@
 # Kropp Fitness Club
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css, figma" />
 
 <img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" />
 
