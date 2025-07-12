@@ -2,6 +2,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,php,docker" />
 
+<img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" />
+
 ## О проекте
 
 **Kropp Fitness Club** — это учебный проект, представляющий собой простую адаптивную верстку сайта фитнес-клуба. Проект создан в рамках практики по основам веб-разработки и является первой из четырёх версток (самая базовая).
